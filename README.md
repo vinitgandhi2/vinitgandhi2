@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vinitgandhi2
-- 👀 I’m interested in full stack developer.
-- 🌱 I’m currently learning frontend web developing.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vinit.gandhi__ my instagram ID.
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently working as a SOC Analyst.
+- 📫 How to reach me vinit.gandhi_ my instagram ID.
 
 <!---
 vinitgandhi2/vinitgandhi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
